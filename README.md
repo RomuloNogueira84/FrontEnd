@@ -51,3 +51,6 @@ Fique atualizado com as versões mais recentes da linguagem.
 Frameworks e Bibliotecas:
 React, Angular e Vue.js são populares.
 Aprenda pelo menos uma dessas tecnologias para se destacar no mercado.
+![Navy Electronic Technology Twitter Header (2)](https://github.com/user-attachments/assets/9b2eace7-c605-4e5c-894b-eb5157482ada)
+
+
