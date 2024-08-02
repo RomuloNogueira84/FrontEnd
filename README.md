@@ -1,4 +1,4 @@
-# Guia de Estudos Front-End: O Mapa Definitivo
+# Minha Jornada Front-End: O Mapa Definitivo
 ![Black Gradients Technology Twitter Header](https://github.com/user-attachments/assets/fd40457d-4186-4071-9730-8b58f9605bd0)
 
 ## Fundamentos do Front-End
