@@ -1,3 +1,5 @@
+![Black Gradients Technology Twitter Header](https://github.com/user-attachments/assets/7bc4a5b3-40b0-4517-9dd3-9281c980227e)
+
 # Guia de Estudo Front-End 2024
 
 Bem-vindo ao meu **Guia de Estudo Front-End 2024**! Criei este guia para ajudar você a dominar o desenvolvimento front-end, desde os conceitos básicos até as técnicas avançadas. Com 121 cursos cuidadosamente selecionados, você estará preparado para enfrentar qualquer desafio no mundo do desenvolvimento web.
@@ -110,3 +112,5 @@ Desenvolva um projeto completo utilizando React e Node.js.
 ## Conclusão
 
 Com este guia, eu estarei preparado para enfrentar qualquer desafio no desenvolvimento front-end. Aproveitarei os cursos e boas práticas para se tornar um desenvolvedor front-end de sucesso!
+
+![Navy Electronic Technology Twitter Header (3)](https://github.com/user-attachments/assets/bf1eb5fd-0d61-4d6a-bf79-13ec6fb1f833)
