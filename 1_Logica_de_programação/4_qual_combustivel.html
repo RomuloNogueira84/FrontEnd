@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Qual combustivel você deseja?</title>
+</head>
+<body>
+  <header>
+    <h1>Posto de combustivel - Tanque Cheio, Coração Contente</h1>
+  </header>
+  <main>
+    <h3>Qual combustivel você deseja?</h3>
+    <p>🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥</p>
+    <p>Você pode escolher entre:</p>
+    <ul>
+      <li>Gasolina</li>
+      <li>Diesel</li>
+      <li>Alcool</li>
+      <li>GNV</li>
+    </ul>
+    <p>🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥</p>
+  </main>
+  <div>
+    <img src="./assets/postogasosa.jpeg" width="300" alt="Posto de combustivel - Tanque Cheio, Coração Contente">
+  </div>
+
+    <script>
+      let pularlinha = function () {
+        document.write("<hr>")
+      }
+      pularlinha()
+      let combustivel = prompt("Qual combustivel você deseja?")
+      if (combustivel === "Gasolina") {
+        alert("Você escolheu Gasolina")
+      } else if (combustivel === "Diesel") {
+        alert("Você escolheu Diesel")
+      } else if (combustivel === "Alcool") {
+        alert("Você escolheu Alcool")
+      } else if (combustivel === "GNV") {
+        alert("Você escolheu GNV")
+      } else {
+        alert("Você escolheu outra coisa sem ser combustivel")
+      } 
+
+      let tanqueCarro = 40
+      let caminhoComGasolina = 480
+      let consumoGasolina = caminhoComGasolina / tanqueCarro
+      document.write("⛽⛽ Você vai gastar " + consumoGasolina + " litros de Gasolina ⛽⛽")
+      pularlinha()
+
+      let quantidaDeGasolina = prompt("Quantidade de Gasolina que você vai gastar?")
+      let consumoDoCarroGasolina  = prompt("Quantidade de quilometros por litro seu carro faz?")
+      let distanciaComGasolina = quantidaDeGasolina * consumoDoCarroGasolina
+      document.write("⛽⛽ Se você abastecer " + quantidaDeGasolina + " litros de Gasolina" + " seu carro vai percorrer " + distanciaComGasolina + " quilometros de distância ⛽⛽")
+      pularlinha()
+    </script>
+    
+</body>
+</html>
