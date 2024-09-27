@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Entendendo as funções</title>
+</head>
+
+<body>
+  <script>
+    let pularLinha = function () {
+      document.write("<br>");
+    }
+    pularLinha();
+    let ano = 2024;
+    document.write("Eu sou Romulo tenho 40 anos e nasci no ano de: " + (ano - 40));
+    pularLinha();
+    document.write(" Ela é Keity minha esposa e tem 29 anos e ela nasceu no ano de " + (ano - 29));
+    pularLinha();
+    document.write(" A diferença de idade entre ela e eu é " + ( 40 - 29) + " anos de idade");
+    pularLinha();
+    let mostra = function () {
+      document.write("alguma frase <br>");
+    }
+    mostra();
+    let mostra2 = function (frase) {
+      document.write(frase + "<br>");
+      pularLinha();
+    }
+    let anoAntigo = 2000;
+    mostra2("Eu sou Romulo tinha 16 anos em 2000 e nasci no ano de: " + (anoAntigo - 16));
+    mostra2("Ela é Keity minha esposa e tinha 05 anos em 2000 e ela nasceu no ano de " + (anoAntigo - 5));
+
+  </script>
+</body>
+
+</html>
